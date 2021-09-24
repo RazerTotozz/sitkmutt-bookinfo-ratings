@@ -1,3 +1,15 @@
+# Bookinfo Rating Service
+
+Rating service has been developed on NodeJS
+
+## License
+
+MIT License
+
+## Website
+
+[PzVPS](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
+
 ## How to run with Docker
 
 ```bash
