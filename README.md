@@ -6,6 +6,12 @@ Rating service has been developed on NodeJS
 
 MIT License
 
+## How to run with Docker Compose
+
+```bash
+docker-compose up
+```
+
 ## Website
 
 [PzVPS](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
